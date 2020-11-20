@@ -1,7 +1,7 @@
 Background Information:
 
 In order to gain information about the impact of the reaction temperature and gas mixture on
-the performance of the SOEC, I/V measurements were conducted. The obtained data can be
+the performance of the Solid Oxide Electrolysis Cell (SOEC), I/V measurements were conducted. The obtained data can be
 used to determine the open circuit voltage (OCV) and the area specific resistance (ASR). The
 latter is equal to the slope of the I/V curve at a desired current density. In this work, the ASR
 was calculated for 0.1 A cm-2. Furthermore, the current density I_{1.4 V} at our chosen maximum of
