@@ -21,7 +21,7 @@ between 700 and 900 °C
 Your Task:
 - Calculate the current density: current density= current/cell_area
 - Plot the IV curves for each mixture as shown in the example picture: y_axis: potential, x_axis: Current density
-- Determine the Open Circuit Boltage (OCV): this is the potential, where the current is 0 (where the IV curve intersects with the y-axis )
+- Determine the Open Circuit Voltage (OCV): this is the potential, where the current is 0 (where the IV curve intersects with the y-axis )
 - Determine the Area Specific Resistance (ARS): Calculate the slopes at 100mA
 - determine the current density at 1.4 V
 - write all values in a results txt file (for this part: check if a resulst.txt file exists. if not, then create one)
