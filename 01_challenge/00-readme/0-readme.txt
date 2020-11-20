@@ -24,7 +24,7 @@ Your Task:
 - Determine the Open Circuit Voltage (OCV): this is the potential, where the current is 0 (where the IV curve intersects with the y-axis )
 - Determine the Area Specific Resistance (ARS): Calculate the slopes at 100mA
 - determine the current density at 1.4 V
-- write all values in a results txt file (for this part: check if a resulst.txt file exists. if not, then create one)
+- write all values in a results txt (or csv) file (for this part: check if a resulst.txt file exists. if not, then create one)
 your results file should have following columns:
 
 CO2/%	CO/%	T/°C	OCV/V	ASR/ohm cm^2	J_1.4V/A cm^2
