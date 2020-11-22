@@ -21,6 +21,8 @@ between 700 and 900 °C
 Your Task:
 - Calculate the current density: current density= current/cell_area
 - Plot the IV curves for each mixture as shown in the example picture: y_axis: potential, x_axis: Current density
+ -> plot the I/V curves of 50-50 CO2-CO in a separate plot then the 11 I/V curves of 80-20 CO2-CO 
+ (so you should have 2 plots, one for 50-50 and the second for 80-20)
 - Determine the Open Circuit Voltage (OCV): this is the potential, where the current is 0 (where the IV curve intersects with the y-axis )
 - Determine the Area Specific Resistance (ARS): Calculate the slopes at 100mA
 - determine the current density at 1.4 V
